@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NotificationHelper-oc"
-  s.version      = "0.1"
+  s.version      = "1.0"
   s.summary      = "封装通知"
 
   # This description is used to generate tags and improve search results.
