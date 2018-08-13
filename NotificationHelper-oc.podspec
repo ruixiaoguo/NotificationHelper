@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NotificationHelper-oc"
-  s.version      = "0.0.1"
+  s.version      = "0.1"
   s.summary      = "封装通知"
 
   # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   #
   #  Licensing your code is important. See http://choosealicense.com for more info.
   #  CocoaPods will detect a license file if there is a named LICENSE*
-  #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
+  #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 0.1'.
   #
 
   s.license      = "MIT"
