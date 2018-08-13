@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NotificationHelper"
-  s.version      = "0.0.1"
+  s.version      = "1.0"
   s.summary      = "封装通知"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    ios封装通知插件
+                   iOS 通知封装库
                    DESC
 
   s.homepage     = "https://github.com/ruixiaoguo/NotificationHelper.git"
@@ -53,10 +53,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Gxiao" => "email@address.com" }
-  # Or just: s.author    = "Gxiao"
-  # s.authors            = { "Gxiao" => "email@address.com" }
-  # s.social_media_url   = "http://twitter.com/Gxiao"
+  s.author             = { "ruixiaoguo" => "grx0917@sina.com" }
+  # Or just: s.author    = "ruixiaoguo"
+  # s.authors            = { "ruixiaoguo" => "grx0917@sina.com" }
+  # s.social_media_url   = "http://twitter.com/ruixiaoguo"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
+    s.platform     = :ios
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
